@@ -1,0 +1,1 @@
+from .generales import configure_routes  # Import de la fonction configure_routes depuis generales.py
